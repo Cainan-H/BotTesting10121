@@ -1,5 +1,5 @@
 from discord.ext import commands
-TOKEN = "MTA1MjMwNzk2MDc5MTA0NDI3Nw.GN_Dbi.QirJ1LoJGcPkWuQPaSMyw79tRV6qyabKxvC01w"
+TOKEN = "MTA1MjMwNzk2MDc5MTA0NDI3Nw.GsxnbR.V0RCf0KsY4JxsRame_wKilU0xUITGYI9ODQuq4"
 
 bot = commands.Bot(command_prefix="!")
 
